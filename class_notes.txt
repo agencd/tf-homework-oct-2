@@ -1,0 +1,21 @@
+Date: 10.04.2023
+
+#default = "" EMPTY VALUE
+
+#tags = {}
+
+# variable types
+
+# string = "key"
+
+#   empty = ""
+
+# list = [ "key1", "key2", "key3" ]
+
+#   empty = []
+
+# map = { "key" : "value" }
+
+#   empty = {}
+
+# bool = true / false
